@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Mortgage Calculator</string>
+    <string name="housePrice">House Price</string>
+    <string name="downPaymentAmount">Down Payment Amount</string>
+    <string name="annualInterestRate">Annual Interest Rate</string>
+    <string name="lengthOfTerms">Terms</string>
+    <string name="calculate">Calculate</string>
+    <string name="cancel">Cancel</string>
+    <string name="monthlyPayment">Monthly Payment</string>
+    <string name="totalPayment">Total Interest Paid</string>
+    <string name="intZero">0</string>
+    <string name="doubleZero">0.0</string>
+    <string name="blank"></string>
+    <string name="missingEntries">Missing Entries</string>
+    <string name="provideEntries">Please enter the values first</string>
+    <string name="propertyTaxRate">Property Tax Rate</string>
+    <string name="totalPropertyTax">Total Property Tax</string>
+    <string name="payOffDate">Pay Off Date</string>
+    <string name="Payment">Payment</string>
+    <string name="mortgage">Mortgage Calculation</string>
+    <string name="OK">OK</string>
+
+    <string-array name="terms_array">
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    <item>40</item>
+    </string-array>
+</resources>

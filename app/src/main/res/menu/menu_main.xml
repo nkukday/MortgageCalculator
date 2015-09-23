@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MortgageCalculator">
+
+    <item android:id="@+id/reset"
+        android:icon="@drawable/reset"
+        android:orderInCategory="999"
+        android:title="reset"
+        android:showAsAction="always" />
+
+</menu>
